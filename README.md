@@ -73,7 +73,7 @@ Grunt отдельно следит за изменениями в sass/js/html 
 `grunt`
 
 ###Замечания:###
- - Если у Вас не установлен Compass, его надо установить. Подробней: https://github.com/gruntjs/grunt-contrib-compass. При установки Ruby галочкой отметить добавление PATH, иначе Grunt может не видеть Ruby.
+ - Если у Вас не установлен Compass, его надо установить. Подробней: https://github.com/gruntjs/grunt-contrib-compass. При установки Ruby на Windows галочкой отметить добавление PATH, иначе Grunt может не видеть Ruby.
 
 Последующие запуски:
 -------------
